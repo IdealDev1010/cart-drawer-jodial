@@ -1,0 +1,96 @@
+{
+  "type": "header",
+  "name": "Header",
+  "sections": {
+    "announcement-bar": {
+      "type": "announcement-bar",
+      "blocks": {
+        "announcement-0": {
+          "type": "text",
+          "settings": {
+            "text": "<p>LIMITED STOCK | FREE SHIPPING ON ALL ORDERS ABOVE $50+<\/p>",
+            "text_color": "#ffffff",
+            "heading_highlight_type": "highlight",
+            "highlight_color": "#d43747",
+            "highlight_text_color": "#000000",
+            "icon_name": "none",
+            "icon_color": "#000000",
+            "icon_width": 20,
+            "target_url_enabled": false,
+            "target_url": "",
+            "target_referrer_enabled": false,
+            "target_referrer": "",
+            "target_device_enabled": false,
+            "target_device": "mobile"
+          }
+        }
+      },
+      "block_order": [
+        "announcement-0"
+      ],
+      "settings": {
+        "layout": "marquee",
+        "show_top_border": false,
+        "show_bottom_border": true,
+        "padding": 10,
+        "slider_speed": 7,
+        "show_arrows": false,
+        "marquee_speed": 75,
+        "direction": "ticker-ltr",
+        "text_caps": true,
+        "type_style": "subheading-text",
+        "text_size": 140,
+        "letter_spacing": 0,
+        "message_spacing": 25,
+        "bg_color": "#000000",
+        "gradient": "",
+        "color": "#ffffff",
+        "border_color": "#ffffff"
+      }
+    },
+    "header": {
+      "type": "header",
+      "blocks": {
+        "ab19c0db-63ca-4489-a211-693e66e76639": {
+          "type": "image",
+          "settings": {
+            "position": "1",
+            "image_second_menu": false,
+            "aspect_ratio": 1,
+            "wide_image": false,
+            "title": "",
+            "heading_size": 100,
+            "link_text": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "ab19c0db-63ca-4489-a211-693e66e76639"
+      ],
+      "settings": {
+        "sticky_header": false,
+        "header_border": true,
+        "link_hover_effect": "dot",
+        "logo_not_home": "{{ shop.brand.logo }}",
+        "logo_max_width": 120,
+        "main-menu": "main-menu",
+        "main_menu_secondary": "",
+        "show_images": false,
+        "image_aspect_ratio": 1,
+        "menu_alignment": "left",
+        "header_icons_as_text": false,
+        "highlight_item": "Sale",
+        "highlight_item_color": "#d02e2e",
+        "header_transparent": false,
+        "logo": "shopify:\/\/shop_images\/jodial_logo_1.jpg",
+        "header_text_color": "white",
+        "header_gradient": true
+      }
+    }
+  },
+  "order": [
+    "announcement-bar",
+    "header"
+  ]
+}

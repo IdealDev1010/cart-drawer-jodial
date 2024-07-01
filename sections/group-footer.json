@@ -1,0 +1,64 @@
+{
+  "type": "footer",
+  "name": "Footer",
+  "sections": {
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "footer-block-0": {
+          "type": "link",
+          "settings": {
+            "alignment": "text-left",
+            "menu": "main-menu",
+            "title": "Shop",
+            "column_width": "20"
+          }
+        },
+        "footer-block-1": {
+          "type": "link",
+          "settings": {
+            "alignment": "text-left",
+            "menu": "footer",
+            "title": "Helpful Links",
+            "column_width": "20"
+          }
+        },
+        "footer-block-3": {
+          "type": "newsletter",
+          "settings": {
+            "alignment": "text-left",
+            "title": "Newsletter",
+            "text": "<p>Stay up to date with the new collections, products and exclusive offers.<\/p>",
+            "column_width": "30"
+          }
+        }
+      },
+      "block_order": [
+        "footer-block-0",
+        "footer-block-1",
+        "footer-block-3"
+      ],
+      "settings": {
+        "show_footer_wave": false,
+        "enable_footer_parallax": true,
+        "bottom_bar_alignment": "text-left",
+        "show_social_links": true,
+        "enable_follow_on_shop": true,
+        "show_payment_icons": true,
+        "bottom_menu": "",
+        "color_text": "#ffffff",
+        "color_bg": "#000000",
+        "color_border": "#ffffff",
+        "show_locale_selector": true,
+        "show_country_selector": true,
+        "show_country_flag": false,
+        "width": "wrapper",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    }
+  },
+  "order": [
+    "footer"
+  ]
+}

@@ -1,0 +1,892 @@
+{
+  "sections": {
+    "main": {
+      "type": "product",
+      "blocks": {
+        "trustoo_io_reviews_star_rating_widget_fMhErn": {
+          "type": "shopify:\/\/apps\/trustoo-io-reviews\/blocks\/star-rating-widget\/c8f15077-6475-4e86-ad06-b66038d5ba2c",
+          "settings": {
+            "star_size": 16,
+            "font_size": 14,
+            "block_aligment": "flex-start"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "subheading": "none",
+            "show_rating": true,
+            "show_rating_count": true,
+            "padding_bottom": 10
+          }
+        },
+        "inventory_countdown": {
+          "type": "inventory_countdown",
+          "settings": {
+            "max_inventory": 10,
+            "hide_inventory_count": true,
+            "padding_bottom": 20
+          }
+        },
+        "form": {
+          "type": "form",
+          "settings": {
+            "show_labels": true,
+            "show_quantity": true,
+            "show_payment_button": false,
+            "enable_subscriptions_selectors": true,
+            "padding_bottom": 20
+          }
+        },
+        "7ddd2db6-1d92-43ee-a7d9-e786662f9ced": {
+          "type": "icon",
+          "settings": {
+            "icon_name": "award",
+            "icon_color": "",
+            "icon_width": 20,
+            "icon_text": "Lifetime Warranty On All Orders",
+            "text_size": 80,
+            "width": "full",
+            "text_alignment": "left",
+            "bg_color": "",
+            "padding_bottom": 20
+          }
+        },
+        "icon_d4hLxQ": {
+          "type": "icon",
+          "settings": {
+            "icon_name": "truck",
+            "icon_color": "",
+            "icon_width": 20,
+            "icon_text": "30-Day Hassle Free Returns",
+            "text_size": 80,
+            "width": "full",
+            "text_alignment": "left",
+            "bg_color": "",
+            "padding_bottom": 20
+          }
+        },
+        "product_accordion": {
+          "type": "product_accordion",
+          "settings": {
+            "accordion_heading": "What's Included?",
+            "heading_style": "font-body",
+            "accordion_text": "<p>- 1 SafetyEdge™ Razor<\/p><p>- 10 Premium Stainless Steel Razor Blades<\/p><p>- *FREE* Exfoliating Glove<\/p>",
+            "accordion_page": "",
+            "padding_bottom": 10
+          }
+        },
+        "9927e90d-2ecb-4104-af67-0dadf75b2a0a": {
+          "type": "product_accordion",
+          "settings": {
+            "accordion_heading": "Shipping and Returns",
+            "heading_style": "font-body",
+            "accordion_text": "<p>Shipping typically takes 6-12 days. Please email our customer support team at support@jodial.com if you have any questions or concerns about your shipment!<\/p><p>To initiate returns, please email support@jodial.com to get started on your return.<\/p>",
+            "accordion_page": "",
+            "padding_bottom": 10
+          }
+        },
+        "upsell": {
+          "type": "upsell",
+          "settings": {
+            "product_list": "{{ product.metafields.theme.upsell_list.value }}",
+            "padding_bottom": 20
+          }
+        },
+        "description": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+            "padding_bottom": 0
+          }
+        },
+        "a42f4e7d-6a8d-42a4-80af-29ec3b3b52d9": {
+          "type": "feature",
+          "disabled": true,
+          "settings": {
+            "icon_name": "support",
+            "icon_width": 25,
+            "title": "Need help with sizing?",
+            "text": "<p>This content type will accept <strong>rich text<\/strong> to help with adding styles and links to additional pages or content. Use this to add supplementary information to help your buyers.<\/p>",
+            "bg_color": "#f7f9fa",
+            "text_color": "#000000",
+            "padding_bottom": 20
+          }
+        }
+      },
+      "block_order": [
+        "trustoo_io_reviews_star_rating_widget_fMhErn",
+        "title",
+        "inventory_countdown",
+        "form",
+        "7ddd2db6-1d92-43ee-a7d9-e786662f9ced",
+        "icon_d4hLxQ",
+        "product_accordion",
+        "9927e90d-2ecb-4104-af67-0dadf75b2a0a",
+        "upsell",
+        "description",
+        "a42f4e7d-6a8d-42a4-80af-29ec3b3b52d9"
+      ],
+      "settings": {
+        "product_sticky_enable": true,
+        "image_layout": "grid",
+        "image_width": "large",
+        "product_image_aspect_ratio": true,
+        "enable_zoom": true,
+        "enable_video_looping": false,
+        "bg_color": "",
+        "width": "wrapper",
+        "padding_top": 60,
+        "padding_bottom": 0
+      }
+    },
+    "ss_feature_15_E898BA": {
+      "type": "ss-feature-15",
+      "blocks": {
+        "item_xBfcA7": {
+          "type": "item",
+          "settings": {
+            "icon": "atc",
+            "custom_icon": "shopify:\/\/shop_images\/soap.png",
+            "heading": "Effortless Smooth Shaving",
+            "text": "<p>Our razors' secret single blade design makes sure you get a shave as smooth as butter while eliminating any chance of you getting skin irritation.<\/p>",
+            "image": "shopify:\/\/shop_images\/ezgif.com-crop.gif"
+          }
+        },
+        "item_qmQWgQ": {
+          "type": "item",
+          "settings": {
+            "icon": "atc",
+            "custom_icon": "shopify:\/\/shop_images\/hair_6e377ec2-7fe9-4615-b88d-48e14d293213.png",
+            "heading": "Protect Your Skin From Cuts",
+            "text": "<p>It's cutting-edge SafetyEdge™ design also makes sure to leave your skin smooth and free from bumps, nicks, and cuts!<br\/><\/p>",
+            "image": "shopify:\/\/shop_images\/ezgif-frame-001_1.jpg"
+          }
+        },
+        "item_pm9WmT": {
+          "type": "item",
+          "settings": {
+            "icon": "atc",
+            "custom_icon": "shopify:\/\/shop_images\/bio.png",
+            "heading": "Help Us Protect Our Planet",
+            "text": "<p>It's crafted from premium stainless steel, so you not only guarantee a smooth shave, but you also reduce your environmental footprint by getting a razor that's built to last a lifetime!<\/p>",
+            "image": "shopify:\/\/shop_images\/pic4_f4c9410e-4f79-429d-933d-46698291df2b.png"
+          }
+        },
+        "item_M6w9my": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "icon": "atc",
+            "custom_icon": "shopify:\/\/shop_images\/save-money.png",
+            "heading": "Save Hundreds A Year",
+            "text": "<ul><li>Describe a key feature in detail.<\/li><\/ul>"
+          }
+        }
+      },
+      "block_order": [
+        "item_xBfcA7",
+        "item_qmQWgQ",
+        "item_pm9WmT",
+        "item_M6w9my"
+      ],
+      "settings": {
+        "heading": "<p><em><strong>Meet The SafetyEdge™ razor - The smoothest, pain free shave ever<\/strong><\/em><\/p>",
+        "heading_custom": false,
+        "heading_font": "helvetica_n7",
+        "heading_size": 44,
+        "heading_size_mobile": 18,
+        "heading_height": 110,
+        "heading_align_mobile": "center",
+        "tabs_radius": 6,
+        "tabs_border_thickness": 0,
+        "tabs_mt_mobile": 20,
+        "tab_padding_vertical": 10,
+        "tab_padding_vertical_mobile": 10,
+        "tab_padding_horizontal": 14,
+        "tab_padding_horizontal_mobile": 14,
+        "tab_icon_size": 24,
+        "tab_icon_size_mobile": 24,
+        "tab_custom": false,
+        "tab_font": "helvetica_n4",
+        "tab_size": 14,
+        "tab_height": 100,
+        "slider_mt": 40,
+        "slider_mt_mobile": 24,
+        "slide_gap": 30,
+        "content_horizontal_align": "center",
+        "content_horizontal_align_mobile": "center",
+        "sub_heading_custom": false,
+        "sub_heading_font": "helvetica_n4",
+        "sub_heading_size": 32,
+        "sub_heading_size_mobile": 28,
+        "sub_heading_height": 130,
+        "sub_heading_mt": 20,
+        "text_custom": false,
+        "text_font": "helvetica_n4",
+        "text_size": 18,
+        "text_size_mobile": 16,
+        "text_height": 150,
+        "text_mt": 16,
+        "text_mt_mobile": 18,
+        "list_item_icon_size": 16,
+        "list_item_icon_size_mobile": 16,
+        "slide_image_position": "right",
+        "slide_image_radius": 8,
+        "slide_image_border_thickness": 0,
+        "slide_image_mt_mobile": 20,
+        "slide_image_ratio": "square",
+        "slide_image_ratio_mobile": "square",
+        "arrow_size": 34,
+        "arrow_size_mobile": 36,
+        "arrow_icon_size": 8,
+        "arrow_icon_size_mobile": 8,
+        "arrow_border_thickness": 1,
+        "arrow_hover_effect": "arrow",
+        "arrow_show_desktop": true,
+        "arrow_show_mobile": true,
+        "tabs_border_color": "#000000",
+        "tab_color": "#000000",
+        "tab_hover_color": "#000000",
+        "tab_active_color": "#000000",
+        "tab_bg_color": "#f9f0ec",
+        "tab_bg_hover_color": "#fce8df",
+        "tab_bg_active_color": "#fce8df",
+        "slide_image_border_color": "#000000",
+        "sub_heading_color": "#000000",
+        "text_color": "#000000",
+        "arrow_color": "#000000",
+        "arrow_hover_color": "#000000",
+        "arrow_bg_color": "",
+        "arrow_bg_hover_color": "",
+        "arrow_border_color": "#000000",
+        "arrow_border_hover_color": "#000000",
+        "heading_color": "#000000",
+        "background_color": "#ffffff",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 20,
+        "margin_bottom": 0,
+        "margin_horizontal": 0,
+        "margin_horizontal_mobile": 0,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_horizontal": 10,
+        "padding_horizontal_mobile": 1.5,
+        "full_width": false,
+        "content_width": 120,
+        "border_thickness": 0,
+        "section_radius": 0,
+        "lazy": true
+      }
+    },
+    "overlapping-images-0": {
+      "type": "section-overlapping-images",
+      "disabled": true,
+      "settings": {
+        "text_position": "left",
+        "text_alignment": "center",
+        "images_width": 750,
+        "images_offset": 60,
+        "image_1": "shopify:\/\/shop_images\/ezgif.com-crop.gif",
+        "image_link_1": "",
+        "image_link_2": "",
+        "hide_image_2": false,
+        "title": "<p>Silky Smooth Shaving<\/p>",
+        "heading_highlight_type": "circle",
+        "highlight_color": "#d43747",
+        "highlight_text_color": "#000000",
+        "description": "<p>Our razors' secret single blade design makes sure you get a shave as smooth as butter while eliminating any chance of you getting skin irritation.<br\/><\/p>",
+        "heading_size": 100,
+        "button_text": "",
+        "button_link": "",
+        "button_color": "btn--black",
+        "button_style": "btn--solid",
+        "button_size": "btn--small",
+        "video_text": "",
+        "video_link": "",
+        "bg_color_secondary": false,
+        "gradient": "",
+        "animation": "horizontal",
+        "animation_intensity": 50,
+        "width": "wrapper--full-padded",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "section_overlapping_images_eMHWCm": {
+      "type": "section-overlapping-images",
+      "disabled": true,
+      "settings": {
+        "text_position": "left",
+        "text_alignment": "center",
+        "images_width": 750,
+        "images_offset": 60,
+        "image_1": "shopify:\/\/shop_images\/pic4_f4c9410e-4f79-429d-933d-46698291df2b.png",
+        "image_link_1": "",
+        "image_link_2": "",
+        "hide_image_2": false,
+        "title": "<p>Protecting Your Skin At All Costs<\/p>",
+        "heading_highlight_type": "circle",
+        "highlight_color": "#d43747",
+        "highlight_text_color": "#000000",
+        "description": "<p>This razor's cutting-edge SafetyEdge™ design also ensures the blade makes contact with the skin at the optimal 30 degree angle making sure to leave your skin smooth and free from bumps, nicks, and cuts!<br\/><\/p>",
+        "heading_size": 100,
+        "button_text": "",
+        "button_link": "",
+        "button_color": "btn--black",
+        "button_style": "btn--solid",
+        "button_size": "btn--small",
+        "video_text": "",
+        "video_link": "",
+        "bg_color_secondary": false,
+        "gradient": "",
+        "animation": "horizontal",
+        "animation_intensity": 50,
+        "width": "wrapper--full-padded",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "38ff978b-66eb-4318-9ce0-94db8ff86311": {
+      "type": "section-columns",
+      "blocks": {
+        "template--18952594129217__38ff978b-66eb-4318-9ce0-94db8ff86311-1683126238ada0cf52-0": {
+          "type": "text_block",
+          "settings": {
+            "title": "Add a title or tagline",
+            "text": "<p>Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
+            "button_text": "Learn More",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--text",
+            "button_size": "btn--small",
+            "video_link_popup": "",
+            "video_link_color": "text-dark"
+          }
+        },
+        "template--18952594129217__38ff978b-66eb-4318-9ce0-94db8ff86311-1683126238ada0cf52-1": {
+          "type": "text_block",
+          "settings": {
+            "title": "Add a title or tagline",
+            "text": "<p>Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
+            "button_text": "Learn More",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--text",
+            "button_size": "btn--small",
+            "video_link_popup": "",
+            "video_link_color": "text-dark"
+          }
+        },
+        "text_block_wXGLm6": {
+          "type": "text_block",
+          "settings": {
+            "title": "Add a title or tagline",
+            "text": "<p>Use this text to describe products, share details on availability and style, etc<\/p>",
+            "button_text": "Learn More",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--text",
+            "button_size": "btn--small",
+            "video_link_popup": "",
+            "video_link_color": "text-dark"
+          }
+        },
+        "template--18952594129217__38ff978b-66eb-4318-9ce0-94db8ff86311-1683126238ada0cf52-2": {
+          "type": "text_block",
+          "settings": {
+            "title": "Add a title or tagline",
+            "text": "<p>Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
+            "button_text": "Learn More",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--text",
+            "button_size": "btn--small",
+            "video_link_popup": "",
+            "video_link_color": "text-dark"
+          }
+        }
+      },
+      "block_order": [
+        "template--18952594129217__38ff978b-66eb-4318-9ce0-94db8ff86311-1683126238ada0cf52-0",
+        "template--18952594129217__38ff978b-66eb-4318-9ce0-94db8ff86311-1683126238ada0cf52-1",
+        "text_block_wXGLm6",
+        "template--18952594129217__38ff978b-66eb-4318-9ce0-94db8ff86311-1683126238ada0cf52-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "align_text": "text-left",
+        "columns": 3,
+        "columns_mobile": "1",
+        "show_images": true,
+        "show_borders": false,
+        "equalize_height": true,
+        "desktop_aspect_ratio": 0.8,
+        "mobile_aspect_ratio": 0.8,
+        "heading_size": 120,
+        "text_size": 100,
+        "bg_color_secondary": false,
+        "color_borders": "#000000",
+        "layout_mobile": "carousel",
+        "width": "wrapper",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "ss_comparison_table_6_bDXiMC": {
+      "type": "ss-comparison-table-6",
+      "blocks": {
+        "list_item_7kBpXd": {
+          "type": "list_item",
+          "settings": {
+            "text": "🧈 Quick & Smooth Shave"
+          }
+        },
+        "list_item_XCcnxB": {
+          "type": "list_item",
+          "settings": {
+            "text": "🪒 Eliminates Razor Bumps"
+          }
+        },
+        "list_item_grFGEi": {
+          "type": "list_item",
+          "settings": {
+            "text": "🌱 Dermatologist Approved & Endorsed"
+          }
+        },
+        "list_item_KUzn7F": {
+          "type": "list_item",
+          "settings": {
+            "text": "♻️ Eco-Friendly & Cost-Effective"
+          }
+        },
+        "table_row_8L7cNw": {
+          "type": "table_row",
+          "settings": {
+            "row_heading": "SafetyEdge™ Technology",
+            "first_column": "",
+            "first_column_icon": "check",
+            "second_column": "",
+            "second_column_icon": "cross",
+            "third_column": "",
+            "third_column_icon": "none",
+            "four_column": "",
+            "four_column_icon": "none"
+          }
+        },
+        "table_row_LxmHLA": {
+          "type": "table_row",
+          "settings": {
+            "row_heading": "Stainless Steel",
+            "first_column": "",
+            "first_column_icon": "check",
+            "second_column": "",
+            "second_column_icon": "cross",
+            "third_column": "",
+            "third_column_icon": "none",
+            "four_column": "",
+            "four_column_icon": "none"
+          }
+        },
+        "table_row_nEfEwa": {
+          "type": "table_row",
+          "settings": {
+            "row_heading": "Ergonomic Design",
+            "first_column": "",
+            "first_column_icon": "check",
+            "second_column": "",
+            "second_column_icon": "cross",
+            "third_column": "",
+            "third_column_icon": "none",
+            "four_column": "",
+            "four_column_icon": "none"
+          }
+        },
+        "table_row_x7hdEA": {
+          "type": "table_row",
+          "settings": {
+            "row_heading": "Price",
+            "first_column": "",
+            "first_column_icon": "cross",
+            "second_column": "",
+            "second_column_icon": "check",
+            "third_column": "",
+            "third_column_icon": "none",
+            "four_column": "",
+            "four_column_icon": "none"
+          }
+        },
+        "table_row_qWxP3W": {
+          "type": "table_row",
+          "settings": {
+            "row_heading": "Eco-Friendly",
+            "first_column": "",
+            "first_column_icon": "check",
+            "second_column": "",
+            "second_column_icon": "cross",
+            "third_column": "",
+            "third_column_icon": "none",
+            "four_column": "",
+            "four_column_icon": "none"
+          }
+        }
+      },
+      "block_order": [
+        "list_item_7kBpXd",
+        "list_item_XCcnxB",
+        "list_item_grFGEi",
+        "list_item_KUzn7F",
+        "table_row_8L7cNw",
+        "table_row_LxmHLA",
+        "table_row_nEfEwa",
+        "table_row_x7hdEA",
+        "table_row_qWxP3W"
+      ],
+      "settings": {
+        "body_gap": 36,
+        "body_gap_mobile": 36,
+        "content_horizontal_align": "center",
+        "content_horizontal_align_mobile": "center",
+        "heading": "<p><em><strong>US<\/strong><\/em> <strong>vs <\/strong><em>Knockoff Razors<\/em><\/p>",
+        "heading_custom": false,
+        "heading_font": "helvetica_n4",
+        "heading_size": 52,
+        "heading_size_mobile": 34,
+        "heading_height": 110,
+        "text": "<p>Get the authentic SafetyEdge™ razor and skip the drama.<\/p>",
+        "text_custom": false,
+        "text_font": "helvetica_n4",
+        "text_size": 18,
+        "text_size_mobile": 16,
+        "text_height": 150,
+        "text_mt": 26,
+        "list_mt": 38,
+        "list_mt_mobile": 38,
+        "list_gap": 30,
+        "list_gap_mobile": 32,
+        "list_hide_mobile": true,
+        "icon_size": 28,
+        "icon_size_mobile": 30,
+        "icon_margin_right": 16,
+        "list_text_custom": false,
+        "list_text_font": "helvetica_n4",
+        "list_text_size": 18,
+        "list_text_size_mobile": 18,
+        "list_text_height": 150,
+        "button": "",
+        "button_url": "",
+        "button_custom": false,
+        "button_font": "helvetica_n4",
+        "button_size": 18,
+        "button_size_mobile": 17,
+        "button_height": 100,
+        "button_width": 305,
+        "button_mt": 50,
+        "button_mt_mobile": 32,
+        "button_padding_vertical": 16,
+        "button_padding_vertical_mobile": 16,
+        "button_padding_horizontal": 48,
+        "button_padding_horizontal_mobile": 48,
+        "button_radius": 100,
+        "button_border_thickness": 0,
+        "button_style": "non_outline",
+        "button_position_mobile": "bottom",
+        "table_columns": 2,
+        "table_mt_mobile": 32,
+        "table_column_active": "1",
+        "table_radius": 16,
+        "table_border_thickness": 1,
+        "table_heading_image_size": 106,
+        "table_heading_image_size_mobile": 200,
+        "first_heading": "SECTION STORE",
+        "first_heading_image": "shopify:\/\/shop_images\/Jodial_2_d9a223a4-694d-46c8-b66d-2755fb926feb.png",
+        "second_heading": "Fakes",
+        "third_heading": "Third",
+        "four_heading": "Fourth",
+        "table_heading_custom": false,
+        "table_heading_font": "helvetica_n4",
+        "table_heading_size": 30,
+        "table_heading_size_mobile": 20,
+        "table_heading_height": 200,
+        "table_heading_align": "center",
+        "table_heading_padding_horizontal": 22,
+        "table_heading_padding_horizontal_mobile": 16,
+        "table_heading_padding_vertical": 18,
+        "table_heading_padding_vertical_mobile": 6,
+        "table_row_padding_horizontal": 14,
+        "table_row_padding_horizontal_mobile": 2,
+        "table_row_padding_vertical": 26,
+        "table_row_padding_vertical_mobile": 14,
+        "table_row_heading_width_mobile": 60,
+        "table_row_heading_custom": false,
+        "table_row_heading_font": "helvetica_n4",
+        "table_row_heading_size": 16,
+        "table_row_heading_size_mobile": 15,
+        "table_row_heading_height": 130,
+        "table_row_heading_align": "center",
+        "table_row_text_custom": false,
+        "table_row_text_font": "helvetica_n4",
+        "table_row_text_size": 20,
+        "table_row_text_size_mobile": 16,
+        "table_row_text_height": 130,
+        "table_row_text_align": "center",
+        "table_row_image_size": 24,
+        "table_row_image_size_mobile": 24,
+        "heading_color": "#000000",
+        "text_color": "#000000",
+        "icon_color": "#000000",
+        "list_text_color": "#000000",
+        "button_color": "#ffffff",
+        "button_hover_color": "#fce8df",
+        "button_bg_color": "#000000",
+        "button_bg_hover_color": "#000000",
+        "button_border_color": "#0b0b0b",
+        "button_border_hover_color": "#000000",
+        "table_border_color": "#000000",
+        "table_active_border_color": "#000000",
+        "table_heading_color": "#000000",
+        "table_heading_active_color": "#000000",
+        "table_heading_bg_active_color": "#fce8df",
+        "table_column_active_bg_color": "#fce8df",
+        "table_row_heading_color": "#000000",
+        "table_row_text_color": "#000000",
+        "table_row_active_text_color": "#ffffff",
+        "background_color": "#ffffff",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 48,
+        "padding_bottom": 48,
+        "padding_horizontal": 5,
+        "padding_horizontal_mobile": 1.5,
+        "full_width": false,
+        "content_width": 130,
+        "border_thickness": 0,
+        "lazy": true
+      }
+    },
+    "section_testimonials_xHJygt": {
+      "type": "section-testimonials",
+      "blocks": {
+        "testimonial_Wedh8a": {
+          "type": "testimonial",
+          "settings": {
+            "star_rating": 5,
+            "text": "<p>Switching to the SafetyEdge Razor was the best decision for my sensitive skin. I used to dread shaving because of the constant nicks and bumps, but this razor's SafetyEdge technology truly protects my skin. I get a close, smooth shave every time without the irritation. It's like it was designed just for me. Highly recommended for anyone looking for a safer, more comfortable shaving experience!<\/p>",
+            "customer_name": "Adrienne L.",
+            "subheading": "<p>San Diego, CA<\/p>"
+          }
+        },
+        "testimonial_zfNHz3": {
+          "type": "testimonial",
+          "settings": {
+            "star_rating": 5,
+            "text": "<p>I've tried countless razors over the years, but nothing compares to the smoothness I get with the SafetyEdge Razor's single blade design. It cuts hair right at the skin level, leaving my face incredibly smooth without any missed spots. The precision is unmatched, and it feels like a professional shave every time. If you want the smoothest shave possible, this is the razor for you!<\/p>",
+            "customer_name": "Samantha B.",
+            "subheading": "<p>Seattle, WA<\/p>"
+          }
+        },
+        "testimonial_fmpFK3": {
+          "type": "testimonial",
+          "settings": {
+            "star_rating": 5,
+            "text": "<p>As someone who is conscious about my environmental impact, I love that the SafetyEdge Razor is eco-friendly. It's great to find a product that doesn't compromise on quality while being good for the planet. The razor itself is durable and built to last, which means less waste compared to disposable razors. It's a win-win for me – an amazing shave and a positive environmental choice.<\/p>",
+            "customer_name": "Alyssa T.",
+            "subheading": "<p>Salt Lake City, Utah<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_Wedh8a",
+        "testimonial_zfNHz3",
+        "testimonial_fmpFK3"
+      ],
+      "settings": {
+        "title": "Testimonials From Real Customers",
+        "text_size": 100,
+        "text_alignment": "text-center",
+        "columns_mobile": "1",
+        "bg_color": "",
+        "testimonial_block_color": "",
+        "testimonial_text_color": "text-dark",
+        "width": "wrapper--full-padded",
+        "padding_top": 0,
+        "padding_bottom": 8
+      }
+    },
+    "icons": {
+      "type": "section-icons-row",
+      "blocks": {
+        "icon-0": {
+          "type": "text",
+          "settings": {
+            "icon_name": "truck",
+            "title": "Free Shipping",
+            "text": "<p>on all order over $50<\/p>"
+          }
+        },
+        "icon-1": {
+          "type": "text",
+          "settings": {
+            "icon_name": "check",
+            "title": "Easy Returns",
+            "text": "<p>within 30 days of purchase<\/p>"
+          }
+        },
+        "icon-2": {
+          "type": "text",
+          "settings": {
+            "icon_name": "eco-friendly",
+            "title": "100% Eco-Friendly",
+            "text": "<p>to protect our earth<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "icon-0",
+        "icon-1",
+        "icon-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "alignment": "center",
+        "columns": 3,
+        "icons_width": 30,
+        "heading": "",
+        "subheading": "",
+        "bg_color": "",
+        "text_color": "#333333",
+        "box_color": "",
+        "button_text": "",
+        "button_link": "",
+        "button_color": "btn--black",
+        "button_style": "btn--solid",
+        "button_size": "btn--small",
+        "enable_slider_mobile": false,
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "tabs": {
+      "type": "section-accordions",
+      "blocks": {
+        "acordion-2": {
+          "type": "text",
+          "settings": {
+            "title": "Does It Actually Work?",
+            "text": "<p>Yes! The SafetyEdge™ razor gives a butter smooth shave thanks to it's single blade design. Unlike multi-blade razors that can cause irritation and ingrown hairs, our single blade ensures minimal contact with your skin, reducing the risk of discomfort. Additionally, the precision of our razor allows for a close shave in a single pass, leaving your skin incredibly smooth without the need for multiple strokes. The result is a shaving experience that's not only effective but also gentle on your skin, providing a level of smoothness that's hard to match with other razors.<\/p>"
+          }
+        },
+        "acordion-1": {
+          "type": "text",
+          "settings": {
+            "title": "Does It Help Against Bumps And Ingrown Hairs?",
+            "text": "<p>Yes! In fact, this is what our premium razor was invented for. We know how it feels to have sensitive skin, trying every razor possible just to end up with the same dreaded bumps and ingrown hairs... The SafetyEdge™ technology is specifically crafted to protect your skin from dangerous contact with the blade, meaning you'll be safe the whole shave!<\/p>"
+          }
+        },
+        "d0defd0d-94c3-403c-bd36-dc2f140a104f": {
+          "type": "text",
+          "settings": {
+            "title": "What's The Difference In Cost Between This Razor And Plastic Razors?",
+            "text": "<p>While the initial investment in a safety razor may be higher, it's more cost-effective in the long run. The replacement blades are affordable and last longer, saving you money over time. The SafetyEdge™ razor is also made of premium stainless steel, meaning it will last you years to come.<\/p>"
+          }
+        },
+        "text_7hcUJt": {
+          "type": "text",
+          "settings": {
+            "title": "Is This Razor Safe For Beginners?",
+            "text": "<p>Absolutely. Many beginners find The SafetyEdge™<strong> <\/strong>razor<strong> <\/strong>easy to use. Its single-blade design allows for a gentler learning curve compared to many other razors.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "acordion-2",
+        "acordion-1",
+        "d0defd0d-94c3-403c-bd36-dc2f140a104f",
+        "text_7hcUJt"
+      ],
+      "settings": {
+        "layout": "two-columns",
+        "show_accordion_divider": false,
+        "title": "Frequently Asked Questions",
+        "subheading": "",
+        "text": "",
+        "tabs_bg_color": "#fafafa",
+        "bg_color_secondary": false,
+        "text_color": "text-dark",
+        "width": "wrapper",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "related": {
+      "type": "related-products",
+      "blocks": {
+        "related": {
+          "type": "related",
+          "settings": {
+            "title": "You May Also Like",
+            "product_recommendations_limit": 4
+          }
+        },
+        "recent": {
+          "type": "recent",
+          "settings": {
+            "title": "Recently viewed",
+            "product_recently_limit": 4
+          }
+        }
+      },
+      "block_order": [
+        "related",
+        "recent"
+      ],
+      "disabled": true,
+      "settings": {
+        "enable_tabs": true,
+        "columns_mobile": "1",
+        "type_style": "subheading-text",
+        "tab_heading_size": 120,
+        "bg_color": "",
+        "width": "wrapper--full-padded",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "171865965086a42a94": {
+      "type": "apps",
+      "blocks": {
+        "trustoo_io_reviews_review_widget_KMxnRn": {
+          "type": "shopify:\/\/apps\/trustoo-io-reviews\/blocks\/review-widget\/c8f15077-6475-4e86-ad06-b66038d5ba2c",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "trustoo_io_reviews_review_widget_KMxnRn"
+      ],
+      "settings": {
+        "bg_color": "",
+        "width": "wrapper",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    }
+  },
+  "order": [
+    "main",
+    "ss_feature_15_E898BA",
+    "overlapping-images-0",
+    "section_overlapping_images_eMHWCm",
+    "38ff978b-66eb-4318-9ce0-94db8ff86311",
+    "ss_comparison_table_6_bDXiMC",
+    "section_testimonials_xHJygt",
+    "icons",
+    "tabs",
+    "related",
+    "171865965086a42a94"
+  ]
+}
